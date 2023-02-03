@@ -1,0 +1,20 @@
+.header{
+    height: 0.86rem;
+    background-color: #ff5555;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: #fff;
+    font-size: 16px;
+}
+.inputbox{
+    padding: 0.08rem ;
+    width: 65%;
+    border-radius: 5px;
+    border: none;
+    height: 0.4rem;
+    outline: none;
+}
+.chart{
+    font-size: 26px;
+}
