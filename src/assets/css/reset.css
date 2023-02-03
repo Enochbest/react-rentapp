@@ -1,0 +1,27 @@
+/*css初始化*/
+*{
+    margin: 0;
+    padding: 0;
+}
+ul{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+img{
+    vertical-align: middle;
+}
+/*移动端适配*/
+html{
+    font-size: 13.333333vw;
+}
+@media(min-height: 750px){
+    html{
+        font-size: 100px;
+    }
+}
+
+body{
+    font-size: 12px;
+}
